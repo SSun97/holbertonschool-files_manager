@@ -1,5 +1,3 @@
-
-   
 import DBClient from '../utils/db';
 import RedisClient from '../utils/redis';
 
